@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="w-full mx-5 md:w-[300px] md:ml-10 mt-10 space-y-2">
+    <div className="w-full px-5 md:w-[300px] md:ml-10 mt-10 space-y-2">
       <p>
         <span className="text-red-800">hci.club</span> is an eclectic collective
         of researchers, developers, writers, designers, musicians, meditators,
