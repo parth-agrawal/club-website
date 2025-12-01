@@ -19,7 +19,7 @@ export default function Home() {
       </p>
       <div>
         <Link className="block underline text-blue-800" href="/parth">
-          parth agarwal
+          parth agrawal
         </Link>
         <Link className="block underline text-blue-800" href="/liam">
           liam duffy
