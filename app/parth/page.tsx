@@ -8,7 +8,7 @@ export default function Parth() {
         </a>
       </div>
       <div>
-        on this page i'll be put up some more juicy descriptions of my weird
+        on this page i'll put up some more juicy descriptions of my weird
         research interests...
       </div>
       <div>watch this space...</div>
