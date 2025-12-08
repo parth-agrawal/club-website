@@ -56,8 +56,8 @@ export default function Nick() {
           Here&apos;s an embed of an essay I wrote that explains the philosophy behind this site.
         </p>
       </div>
-      <div className="ml-10 border border-slate-700 bg-white p-2 w-[300px] space-y-2">
-          <iframe src="https://nicholaschen.io/fragments" className="w-full h-[300px]" />
+      <div className="ml-10 border border-slate-700 bg-white p-2 w-[400px] space-y-2">
+          <iframe src="https://nicholaschen.io/fragments" className="w-full h-[400px]" />
         </div> 
     </div>
   );
