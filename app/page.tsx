@@ -15,7 +15,7 @@ export default function Home() {
         all.
       </p>
       <p className="mt-10">
-        <span className="text-red-800">hci.club</span> consists of:
+        <span className="text-red-800">hci.club</span> is:
       </p>
       <div>
         <Link className="block underline text-blue-800" href="/parth">
@@ -36,6 +36,24 @@ export default function Home() {
         <Link className="block underline text-blue-800" href="/arjun">
           arjun sanya
         </Link>
+        others, who attend our{" "}
+        <a
+          href="https://x.com/mr_samosaman/status/1946182023581749614?s=20"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="underline text-blue-800"
+        >
+          book club
+        </a>
+        , game nights, demos, and{" "}
+        <a
+          href="https://x.com/mr_samosaman/status/1949815150753550416?s=20"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="underline text-blue-800"
+        >
+          work group
+        </a>
       </div>
     </div>
   );
