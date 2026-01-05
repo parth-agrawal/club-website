@@ -36,6 +36,7 @@ export default function Home() {
         <Link className="block underline text-blue-800" href="/arjun">
           arjun sanya
         </Link>
+        <div className="mt-2"></div>
         others, who attend our{" "}
         <a
           href="https://x.com/mr_samosaman/status/1946182023581749614?s=20"
