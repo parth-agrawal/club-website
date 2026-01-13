@@ -6,7 +6,7 @@ export default function Home() {
       <p>
         <span className="text-red-800">hci.club</span> is an eclectic collective
         of researchers, developers, writers, designers, musicians, meditators,
-        and designers who are interested in the future of computing.{" "}
+        and designers who are interested in the future of media and interfaces.{" "}
       </p>
       <p>
         this is our home on the internet, which operates as a
